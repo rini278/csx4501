@@ -1,6 +1,6 @@
 # Project description:
 
-As I am curious about the rapid rise of Airbnbs, I have decided to work on a Airbnb dataset. Over half of homeowners would consider renting out their homes through a third-party app like Airbnb - the interesting article that nudged me to work on it is linked [here](https://listwithclever.com/research/airbnb-vs-hotels-study/)
+As I am curious about the rapid rise of Airbnbs, I have decided to work on a Airbnb dataset. Over half of homeowners would consider renting out their homes through a third-party app like Airbnb - the interesting article that nudged me to work on it is linked [here](https://listwithclever.com/research/airbnb-vs-hotels-study/).
 
 ## Context
 "*Airbnb happened because two guys could not pay their rent, but did have some space*."
@@ -18,4 +18,8 @@ A Host can create a listing by selecting the "Host" menu after logging in. The P
 What's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.
 
 ## Acknowledgements
-The Dataset is from Inside Airbnb for Los Angeles location. "Inside Airbnb" is an independent, non-commercial set of tools and data that allows us to explore how Airbnb is really being used in cities around the world. 
+The Dataset is from Inside Airbnb for Los Angeles location. "Inside Airbnb" is an independent, non-commercial set of tools and data that allows us to explore how Airbnb is really being used in cities around the world. Downloaded dataset that I will use from [Kaggle](https://www.kaggle.com/oindrilasen/la-airbnb-listings/metadata).
+
+## Analysis and Visualization
+
+As we are learning about data visualization using python matplotlib and panda libraries, using a large dataset such as Airbnb would be a good challenge to explore various plotting methods and techniques.
