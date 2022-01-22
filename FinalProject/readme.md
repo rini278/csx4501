@@ -18,8 +18,11 @@ A Host can create a listing by selecting the "Host" menu after logging in. The P
 What's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.
 
 ## Acknowledgements
-The Dataset is from Inside Airbnb for Los Angeles location. "Inside Airbnb" is an independent, non-commercial set of tools and data that allows us to explore how Airbnb is really being used in cities around the world. Downloaded dataset that I will use from [Kaggle](https://www.kaggle.com/oindrilasen/la-airbnb-listings/metadata).
+The Dataset is from Inside Airbnb for Los Angeles location. "Inside Airbnb" is an independent, non-commercial set of tools and data that allows us to explore how Airbnb is really being used in cities around the world. Downloaded the dataset that I will use from [Kaggle](https://www.kaggle.com/oindrilasen/la-airbnb-listings/metadata).
 
 ## Analysis and Visualization
-
 As we are learning about data visualization using python matplotlib and panda libraries, using a large dataset such as Airbnb would be a good challenge to explore various plotting methods and techniques.
+
+## Conclusion
+I expect to see the host and guest data plotted using python libraries and find out interesting outliers if there are any.
+
