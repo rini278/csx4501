@@ -14,5 +14,5 @@ My initial thoughts about my data science project was to work on the causes that
 So I'm going to start small based on my current needs. I would like my first data science project to be something like a **habit tracker** or a **bullet journal**. Instead of focusing on productivity my project will strive for accountability. 
 
 ###  Working on datasets
-I'm pursuing interior design education as well, it might be in my best interests to work on data sets related to real estate, architecture and interior design. I will be updating this project space along the course, feel free to suggest any ideas.
+I'm pursuing interior design education as well, it might be in my best interests to work on data sets related to real estate, architecture and interior design. One other aspect that intrigues me is the significant growth of Airbnb and people's preference of Airbnb over hotels, so I am looking to work on Airbnb dataset at some point. I will be updating this project space along the course, feel free to suggest any ideas.
 
