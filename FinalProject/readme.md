@@ -26,3 +26,4 @@ As we are learning about data visualization using python matplotlib and panda li
 ## Conclusion
 I expect to see the host and guest data plotted using python libraries and find out interesting outliers if there are any.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rini278/csx4501/tree/main/FinalProject/HEAD)
