@@ -1,5 +1,3 @@
-https://mybinder.org/v2/gh/rini278/csx4501/tree/main/main?labpath=Assignment%2007.ipynb
-
 ### csx4501
 ## Introduction to Data Science
 
